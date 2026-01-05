@@ -7,3 +7,21 @@
 **The Implementation:** We executed a three-stage experimental loop (Baseline → Top-K Selection → Hyperparameter Tuning) across six algorithms. The **Tuned Logistic Regression** model, utilizing just the **top four features**, emerged as the most efficient solution.
 
 **The Result:** Achieving a **PR AUC of 0.9926** and catching **~49% of loyalists**, this framework provides a **40x improvement** in targeting precision. It allows Olist to move from broad-spectrum guesswork to mathematically precise, high-ROI retention marketing.
+
+---
+### Medium Article:
+**[Predicting Customer Churn and Loyalty in Brazilian E-Commerce using PySpark](https://medium.com/@jacknayem/predicting-customer-churn-and-loyalty-in-brazilian-e-commerce-using-pyspark-6ec0930e99de)**
+---
+### Kaggle Code:
+**[PART 1 Dataset Construction](https://www.kaggle.com/code/jacknayem/empirical-churn-analysis-olist-e-commerce-part-1)**
+
+---
+**[PART 2 Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/jacknayem/empirical-analysis-of-churned-customers-part-2)**
+
+---
+**[PART 3 Model Training (91 ways)](https://www.kaggle.com/code/jacknayem/empirical-analysis-of-churned-customers-part-3)**
+
+---
+**[PART 4 Model Evaluation Analysis](https://www.kaggle.com/code/jacknayem/empirical-churn-analysis-olist-e-commerce-part-4)**
+
+---
